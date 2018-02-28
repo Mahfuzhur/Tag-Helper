@@ -1,0 +1,12 @@
+E:\WebUsingCore\Tag-Helper\TagHelper\TagHelper\bin\Debug\netcoreapp2.0\TagHelper.deps.json
+E:\WebUsingCore\Tag-Helper\TagHelper\TagHelper\bin\Debug\netcoreapp2.0\TagHelper.runtimeconfig.json
+E:\WebUsingCore\Tag-Helper\TagHelper\TagHelper\bin\Debug\netcoreapp2.0\TagHelper.runtimeconfig.dev.json
+E:\WebUsingCore\Tag-Helper\TagHelper\TagHelper\bin\Debug\netcoreapp2.0\TagHelper.dll
+E:\WebUsingCore\Tag-Helper\TagHelper\TagHelper\bin\Debug\netcoreapp2.0\TagHelper.pdb
+E:\WebUsingCore\Tag-Helper\TagHelper\TagHelper\obj\Debug\netcoreapp2.0\TagHelper.csprojResolveAssemblyReference.cache
+E:\WebUsingCore\Tag-Helper\TagHelper\TagHelper\obj\Debug\netcoreapp2.0\TagHelper.csproj.CoreCompileInputs.cache
+E:\WebUsingCore\Tag-Helper\TagHelper\TagHelper\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\WebUsingCore\Tag-Helper\TagHelper\TagHelper\obj\Debug\netcoreapp2.0\TagHelper.AssemblyInfoInputs.cache
+E:\WebUsingCore\Tag-Helper\TagHelper\TagHelper\obj\Debug\netcoreapp2.0\TagHelper.AssemblyInfo.cs
+E:\WebUsingCore\Tag-Helper\TagHelper\TagHelper\obj\Debug\netcoreapp2.0\TagHelper.dll
+E:\WebUsingCore\Tag-Helper\TagHelper\TagHelper\obj\Debug\netcoreapp2.0\TagHelper.pdb
