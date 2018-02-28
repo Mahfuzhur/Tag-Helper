@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "e531c305d00baddce899010831a73f4f436ee99a"
+    "signature": "ed1af79ea0f4e1352ff7feedffd4f9032154e66c"
   },
   "compilationOptions": {
     "defines": [
@@ -26,7 +26,8 @@
           "Microsoft.AspNetCore.All": "2.0.5",
           "Microsoft.EntityFrameworkCore.Tools": "2.0.1",
           "Microsoft.NETCore.App": "2.0.0",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.0.2"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.0.2",
+          "TagHelperSamples.Bootstrap": "2.0.30"
         },
         "runtime": {
           "TagHelper.dll": {}
@@ -4040,6 +4041,17 @@
           "System.Xml.XPath": "4.3.0"
         }
       },
+      "TagHelperSamples.Bootstrap/2.0.30": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc": "2.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/TagHelperSamples.Bootstrap.dll": {}
+        },
+        "compile": {
+          "lib/netstandard2.0/TagHelperSamples.Bootstrap.dll": {}
+        }
+      },
       "WindowsAzure.Storage/8.1.4": {
         "dependencies": {
           "Microsoft.Data.OData": "5.8.2",
@@ -6358,6 +6370,13 @@
       "sha512": "sha512-jw9oHHEIVW53mHY9PgrQa98Xo2IZ0ZjrpdOTmtvk+Rvg4tq7dydmxdNqUvJ5YwjDqhn75mBXWttWjiKhWP53LQ==",
       "path": "system.xml.xpath.xdocument/4.3.0",
       "hashPath": "system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
+    },
+    "TagHelperSamples.Bootstrap/2.0.30": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gyPW3BvyzupVhE0WDLSbg8B1V8am7TBgnsp98mce85DaWrbny7csqZg22aqBGtLKyVV0tlrVp5YlmSbJZaP+9Q==",
+      "path": "taghelpersamples.bootstrap/2.0.30",
+      "hashPath": "taghelpersamples.bootstrap.2.0.30.nupkg.sha512"
     },
     "WindowsAzure.Storage/8.1.4": {
       "type": "package",

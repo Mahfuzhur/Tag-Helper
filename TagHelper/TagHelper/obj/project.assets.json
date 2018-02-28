@@ -5014,6 +5014,18 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
+      "TagHelperSamples.Bootstrap/2.0.30": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc": "2.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/TagHelperSamples.Bootstrap.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/TagHelperSamples.Bootstrap.dll": {}
+        }
+      },
       "WindowsAzure.Storage/8.1.4": {
         "type": "package",
         "dependencies": {
@@ -13092,6 +13104,16 @@
         "system.xml.xpath.xdocument.nuspec"
       ]
     },
+    "TagHelperSamples.Bootstrap/2.0.30": {
+      "sha512": "gyPW3BvyzupVhE0WDLSbg8B1V8am7TBgnsp98mce85DaWrbny7csqZg22aqBGtLKyVV0tlrVp5YlmSbJZaP+9Q==",
+      "type": "package",
+      "path": "taghelpersamples.bootstrap/2.0.30",
+      "files": [
+        "lib/netstandard2.0/TagHelperSamples.Bootstrap.dll",
+        "taghelpersamples.bootstrap.2.0.30.nupkg.sha512",
+        "taghelpersamples.bootstrap.nuspec"
+      ]
+    },
     "WindowsAzure.Storage/8.1.4": {
       "sha512": "W6ZZ0/o7+3Qb77mRAQyLjPudHG3OMeeQ4p9yY13PUdJArmRCx2cLMm5F4tpIjJXxzHC0ew0oK7DMDGILMdfCnw==",
       "type": "package",
@@ -13120,7 +13142,8 @@
       "Microsoft.AspNetCore.All >= 2.0.5",
       "Microsoft.EntityFrameworkCore.Tools >= 2.0.1",
       "Microsoft.NETCore.App >= 2.0.0",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.0.2"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.0.2",
+      "TagHelperSamples.Bootstrap >= 2.0.30"
     ]
   },
   "packageFolders": {
@@ -13185,6 +13208,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.2, )"
+          },
+          "TagHelperSamples.Bootstrap": {
+            "target": "Package",
+            "version": "[2.0.30, )"
           }
         },
         "imports": [
